@@ -11,7 +11,6 @@
 <form action="/WebSample2/RegisterUser" method="post">
 <h1>開発環境～テスト環境のCI</h1>
 ログインID：<input type="text" name="id"><b>（Numeric Only）</b>
-<br>
 パスワード：<input type="text" name="pass"><br>
 名前：<input type="text" name="name"><br>
 <br>
