@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: JSESSIONID=33912F8A225482A5A692DFF2509622FF; Path=/datamanagement/; HttpOnly
+Set-Cookie: Session-ID=33912F8A225482A5A692DFF2509622FF; Path=/
+Set-Cookie: Accept-Language=en; Path=/
+Set-Cookie: Accept-Language-ISO=en; Path=/
+Content-Type: application/json
+Transfer-Encoding: chunked
+Date: Tue, 12 Jun 2018 01:35:08 GMT
+
+{"result":false,"description":"Could not read JSON: Unexpected character (''' (code 39)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: org.apache.catalina.connector.CoyoteInputStream@70a6b96f; line: 1, column: 2]; nested exception is com.fasterxml.jackson.core.JsonParseException: Unexpected character (''' (code 39)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: org.apache.catalina.connector.CoyoteInputStream@70a6b96f; line: 1, column: 2]"}
