@@ -12,10 +12,10 @@
 <h1>開発環境～テスト環境のCI</h1>
 ログインID：<input type="text" name="id"><b>（Numeric Only）</b><br>
 パスワード：<input type="text" name="pass"><br>
-名前：<input type="text" name="name"><br>
+<br>名前：<input type="text" name="name"><br>
 <br>
 <input type="submit" value="確認">
 </form>
-UPDATE : 2018/06/12 14:00
+UPDATE : 2018/06/14 10:40
 </body>
 </html>
