@@ -16,6 +16,6 @@
 <br>
 <input type="submit" value="確認">
 </form>
-UPDATE : 2018/06/14 18:50
+UPDATE : 2018/06/14 20:00
 </body>
 </html>
