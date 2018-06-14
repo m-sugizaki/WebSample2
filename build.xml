@@ -87,7 +87,7 @@
 
   <!-- .warファイル作成 -->
   <target depends="build-project" name="build-war">
-    <war destfile="war/${ant.project.name}.war"
+    <war destfile="C:/Workspace/war/${ant.project.name}.war"
         webxml="WebContent/WEB-INF/web.xml">
       <fileset dir="WebContent">
         <include name="**/*" />
