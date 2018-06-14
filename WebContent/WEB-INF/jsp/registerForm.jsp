@@ -10,13 +10,12 @@
 <body>
 <form action="/WebSample2/RegisterUser" method="post">
 <h1>開発環境～テスト環境のCI</h1>
-ログインID：<input type="text" name="id"><b>（Numeric Only）</b>
-<br>
+ログインID：<input type="text" name="id"><b>（Numeric Only）</b><br>
 パスワード：<input type="text" name="pass"><br>
-名前：<input type="text" name="name"><br>
+<br>名前：<input type="text" name="name"><br>
 <br>
 <input type="submit" value="確認">
 </form>
-UPDATE : 2018/06/01 15:31
+UPDATE : 2018/06/14 18:30
 </body>
 </html>
