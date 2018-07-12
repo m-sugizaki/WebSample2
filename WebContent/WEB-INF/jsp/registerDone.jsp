@@ -5,6 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>ユーザー登録</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 <p>登録完了しました。</p>
