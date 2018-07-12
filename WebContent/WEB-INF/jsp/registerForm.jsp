@@ -5,6 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>ユーザー登録</title>
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
@@ -16,6 +17,6 @@
 <br>
 <input type="submit" value="確認">
 </form>
-UPDATE : 2018/07/06 17:00
+UPDATE : 2018/07/10 17:00
 </body>
 </html>
